@@ -1,0 +1,7 @@
+edu/phystech/weather_currency_app/WeatherCurrencyAppApplication.class
+edu/phystech/weather_currency_app/services/CurrencyService.class
+edu/phystech/weather_currency_app/services/PredictService.class
+edu/phystech/weather_currency_app/services/WeatherService.class
+edu/phystech/weather_currency_app/controllers/PredictController.class
+edu/phystech/weather_currency_app/controllers/WeatherController.class
+edu/phystech/weather_currency_app/controllers/CurrencyController.class

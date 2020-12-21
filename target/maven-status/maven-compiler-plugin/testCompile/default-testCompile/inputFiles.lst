@@ -1,0 +1,7 @@
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/WeatherCurrencyAppApplicationTests.java
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/services/WeatherServiceTest.java
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/controllers/CurrencyControllerTest.java
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/services/CurrencyServiceTest.java
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/services/PredictServiceTest.java
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/controllers/WeatherControllerTest.java
+/home/voo/IdeaProjects/WeatherCurrencyApp/src/test/java/edu/phystech/weather_currency_app/controllers/PredictControllerTest.java
